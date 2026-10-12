@@ -1,0 +1,16 @@
+# Education Point Career Institute Khargone
+- Design read: A local coaching institute needs parents and students to feel clarity, trust and academic seriousness within seconds.
+- Concept spine: A clear path forward, expressed through confident typography, generous white space and precise cobalt wayfinding.
+- Delivery tier: editorial, because the owner selected a non-animated website; bespoke layout, subtle reveal and tactile interactions, no forced camera journey.
+- Animation mode: non-animated — user picked Non-animated at intake.
+- Locked palette: cobalt #168FCB, ink #142B3B, white #FFFFFF, mist #F1F7FA, restrained logo red #D51F27.
+- Locked type: Outfit for display + Inter Tight for body.
+- Hero architecture: asymmetrical split with large education photography, left-aligned message and contact actions.
+- Signature motion: restrained section reveals and tactile button feedback, all reduced-motion safe.
+- Corner language: consistent 14px rounded corners and thin blue-grey borders.
+- Section plan: asymmetric hero, trust strip, about split, courses, faculty roster, rating highlight, practical information, contact footer.
+- Asset plan: preserve the supplied logo's blue/red identity; image generation was blocked by the current account plan, so use remote education photography rather than fake AI visuals.
+- CTA inventory: “Call the institute”, “Get directions”, “Read 72 reviews”; discreet footer faculty admin link.
+- Faculty control: records stored in D1; every add/delete operation checks ADMIN_PASSWORD server-side; no public edit controls. Configure the secret in website settings before use.
+- SEO: business-specific title/description, EducationalOrganization JSON-LD, image alt text, local address, call/map links, sitemap and robots.
+- Responsive: mobile nav, stacked hero, two-column course grid, single-column faculty and visit layouts.

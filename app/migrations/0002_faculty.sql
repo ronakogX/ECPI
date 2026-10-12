@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS faculty (
+ id INTEGER PRIMARY KEY AUTOINCREMENT,
+ name TEXT NOT NULL,
+ subject TEXT NOT NULL,
+ qualification TEXT NOT NULL DEFAULT '',
+ created_at TEXT NOT NULL DEFAULT (datetime('now'))
+);
